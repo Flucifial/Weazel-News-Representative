@@ -7,10 +7,7 @@
     "node": "8.x",
     "npm": "*"
   },
-  "keywords": [
-    "heroku",
-    "discord.js"
   "dependencies": {
-    "discord.js": "^11.3.0"
+    "discord.js": "11.3.0",
   }
 }
