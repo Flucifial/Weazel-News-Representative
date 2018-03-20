@@ -1,10 +1,16 @@
 {
-  "name": "Weazel News Representative",
+  "name": "weazel-news-representative",
   "version": "1.0.0",
+  "description": "Weazel",
   "main": "index.js",
   "engines": {
     "node": "8.x",
     "npm": "*"
   },
+  "keywords": [
+    "heroku",
+    "discord.js"
   "dependencies": {
     "discord.js": "^11.3.0"
+  }
+}
