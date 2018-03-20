@@ -6,7 +6,7 @@ bot.on("ready", function() {
     console.log(`${bot.user.username} is online!`);
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NDI1MzkwODU1MTg1MTA0ODk3.DZG02g.kVphaSU2ekH-lr5G1rtq7L-ada8);
 
 bot.on("guildMemberAdd", function(member) {
     let welcomeChannel = member.guild.channels.find("name", "welcome");
